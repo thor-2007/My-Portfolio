@@ -225,6 +225,8 @@ margin-bottom: 1rem;
     border: 2px solid black;
     cursor: pointer;
     transition: 0.3 ease-in-out;
+    border-radius: 3rem;
+    transition: transform 0.3s ease-in-out;
 }
 .project-card:hover{
     background-color: black;
