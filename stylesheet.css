@@ -127,18 +127,24 @@ section{
     gap: 1rem;
 }
 .btn{
+    color: black;
     border-radius: 3rem;
     padding: 0.5rem 1.5rem;
     border: 2px solid black;
     cursor: pointer;
     font-weight: 500;
     text-wrap: nowrap;
+    text-decoration: none;
     transition: 0.2s ease-in-out;
 }
 .btn:hover{
     background-color: black;
     color: white;
 }
+
+
+
+
 .socials{
     display: flex;
     gap: 2rem;
